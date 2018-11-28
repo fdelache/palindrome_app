@@ -1,7 +1,8 @@
 source 'https://rubygems.org'
 
-gem 'sinatra'
+gem 'fdelache_palindrome'
 gem 'rerun'
+gem 'sinatra'
 
 group :test do
   gem 'minitest'
